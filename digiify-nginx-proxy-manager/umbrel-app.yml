@@ -1,0 +1,26 @@
+manifestVersion: 1
+id: digiify-nginx-proxy
+name: Nginx Proxy Manager
+tagline: Docker container for managing Nginx proxy hosts with a simple, powerful interface.
+icon: https://camo.githubusercontent.com/39ab381c541c056a2af4cefb336cfb7fea1e170dafe45dd3f26ba89063a7c066/68747470733a2f2f6e67696e7870726f78796d616e616765722e636f6d2f6769746875622e706e67
+category: Network
+version: "1.0.0"
+port: 3100
+description: >-
+  Nginx Proxy Manager for personal use.  
+
+
+developer: Digiify
+website: https://koziol-it.de
+submitter: Digiify
+submission: https://github.com/getumbrel/umbrel-hello-world-app
+repo: https://github.com/getumbrel/umbrel-hello-world-app
+support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+gallery:
+
+releaseNotes: >-
+  Initial-Release
+dependencies: []
+path: ""
+defaultUsername: "admin@example.com"
+defaultPassword: "changeme"
