@@ -7,16 +7,18 @@ category: Network
 version: "1.0.0"
 port: 3100
 description: >-
-  Nginx Proxy Manager for personal use.  
+  Nginx Proxy Manager.
 
+  For personal use.
 
 developer: Digiify
 website: https://koziol-it.de
 submitter: Digiify
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+submission: hhttps://github.com/Digiify/digiify-umbrel-app-store
+repo: https://github.com/Digiify/digiify-umbrel-app-store
+support: https://github.com/Digiify/digiify-umbrel-app-store/issues
 gallery:
+  - https://www.blackvoid.club/content/images/size/w2000/2022/05/nginxproxymanager.jpg
 
 releaseNotes: >-
   Initial-Release
